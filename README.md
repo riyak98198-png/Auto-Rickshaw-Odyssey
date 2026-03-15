@@ -64,7 +64,7 @@ Bombay Ferrari – The Living Mumbai Traffic Ecosystem is a mobile-friendly 3D s
 
 ## Deployment
 - This project is a single-page HTML + JS and CSS file.
-- To run, either use this link :        or open `index.html` in a browser (mobile or desktop).
+- To run, either use this link : "https://riyak98198-png.github.io/Auto-Rickshaw-Odyssey/"  or open `index.html` in a browser (mobile or desktop).
 - No server-side setup required.
 
 ## Credits
